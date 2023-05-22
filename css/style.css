@@ -1095,7 +1095,7 @@ h6 {
 }
 
 .item-formats {
-  min-height: 100%;
+  min-height: initial;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1173,7 +1173,7 @@ h6 {
 }
 
 .item-rates {
-  min-height: 100%;
+  min-height: initial;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
